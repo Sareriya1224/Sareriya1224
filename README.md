@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sareriya1224
 - 👀 I’m interested in movies
-- 🌱 I’m currently learning bca at atmiya university
+- 🌱 I’m currently learning mca at marwadi university
 - 📫 How to reach me rishisareriya1224@gmail.com
 
 <!---
